@@ -14,6 +14,7 @@ Autor: Pablo Serrano.
             $miNombre = $_GET['nombre'];
             echo "Credenciales de ".$miNombre."<br>"."Usuario: ".$usuario."<br>Contraseña: ".$contraseña;
         ?>
+        <br>
         <a href='moto.php'>Ejercicio2</a>
     </body>
 </html>
